@@ -1,0 +1,14 @@
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\bin\Debug\net6.0\3 - petshop.exe
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\bin\Debug\net6.0\3 - petshop.deps.json
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\bin\Debug\net6.0\3 - petshop.runtimeconfig.json
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\bin\Debug\net6.0\3 - petshop.dll
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\bin\Debug\net6.0\3 - petshop.pdb
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\obj\Debug\net6.0\3 - petshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\obj\Debug\net6.0\3 - petshop.AssemblyInfoInputs.cache
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\obj\Debug\net6.0\3 - petshop.AssemblyInfo.cs
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\obj\Debug\net6.0\3 - petshop.csproj.CoreCompileInputs.cache
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\obj\Debug\net6.0\3 - petshop.dll
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\obj\Debug\net6.0\refint\3 - petshop.dll
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\obj\Debug\net6.0\3 - petshop.pdb
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\obj\Debug\net6.0\3 - petshop.genruntimeconfig.cache
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\3 - petshop\3 - petshop\obj\Debug\net6.0\ref\3 - petshop.dll
