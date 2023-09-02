@@ -1,4 +1,0 @@
-﻿  C++.cpp
-C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\keylogger\keylogger\C++.cpp(1,1): warning C4005: 'UNICODE': macro redefinition
-C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\keylogger\keylogger\C++.cpp(1,1): message : 'UNICODE' previously declared on the command line
-  keylogger.vcxproj -> C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\keylogger\x64\Debug\keylogger.exe
