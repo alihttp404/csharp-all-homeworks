@@ -1,0 +1,14 @@
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\bin\Debug\net6.0\Point, Counter, Fraction.exe
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\bin\Debug\net6.0\Point, Counter, Fraction.deps.json
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\bin\Debug\net6.0\Point, Counter, Fraction.runtimeconfig.json
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\bin\Debug\net6.0\Point, Counter, Fraction.dll
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\bin\Debug\net6.0\Point, Counter, Fraction.pdb
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\obj\Debug\net6.0\Point, Counter, Fraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\obj\Debug\net6.0\Point, Counter, Fraction.AssemblyInfoInputs.cache
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\obj\Debug\net6.0\Point, Counter, Fraction.AssemblyInfo.cs
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\obj\Debug\net6.0\Point, Counter, Fraction.csproj.CoreCompileInputs.cache
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\obj\Debug\net6.0\Point, Counter, Fraction.dll
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\obj\Debug\net6.0\refint\Point, Counter, Fraction.dll
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\obj\Debug\net6.0\Point, Counter, Fraction.pdb
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\obj\Debug\net6.0\Point, Counter, Fraction.genruntimeconfig.cache
+C:\Users\MammadovAliRovshan\Documents\c#\csharp-all-homeworks\Point, Counter, Fraction\Point, Counter, Fraction\obj\Debug\net6.0\ref\Point, Counter, Fraction.dll
