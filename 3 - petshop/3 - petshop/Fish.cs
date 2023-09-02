@@ -10,11 +10,14 @@ namespace _3___petshop
     {
         public bool IsVertebrate { get; set; } // onurgali ya onurgasiz baliqdi
 
-        public Fish() { }
+        public Fish() { MaxMealQuantity = 5; }
 
-        public Fish(string? name, int? age, char? gender, int? energy, int? price, int? maxMealQuantity, int? currMealQuantity, bool isVertebrate)
-    : base(name, age, gender, energy, price, maxMealQuantity, currMealQuantity)
-=> IsVertebrate = isVertebrate;
+        public Fish(string? name, int? age, char? gender, int? price, bool isVertebrate)
+    : base(name, age, gender, price)
+        {
+            IsVertebrate = isVertebrate;
+            MaxMealQuantity = 5;
+        }
 
         public override void MakeSound() => Console.WriteLine("bul bul");
 

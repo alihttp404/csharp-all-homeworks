@@ -10,11 +10,14 @@ namespace _3___petshop
     {
         public string? PawColor { get; set; } // pence rengi
 
-        public Dog() { }
+        public Dog() { MaxMealQuantity = 40; }
 
-        public Dog(string? name, int? age, char? gender, int? energy, int? price, int? maxMealQuantity, int? currMealQuantity, string? pawColor)
-    : base(name, age, gender, energy, price, maxMealQuantity, currMealQuantity)
-=> PawColor = pawColor;
+        public Dog(string? name, int? age, char? gender, int? price, string? pawColor)
+    : base(name, age, gender, price)
+        {
+            PawColor = pawColor;
+            MaxMealQuantity = 40;
+        }
 
         public override void MakeSound() => Console.WriteLine("\nWoof woof");
 

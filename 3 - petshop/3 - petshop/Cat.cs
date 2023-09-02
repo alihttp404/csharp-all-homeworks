@@ -11,11 +11,14 @@ namespace _3___petshop
     {
         public string? EyeColor { get; set; }
 
-        public Cat() { }
+        public Cat() { MaxMealQuantity = 20; }
         
-        public Cat(string? name, int? age, char? gender, int? energy, int? price, int? maxMealQuantity, int? currMealQuantity, string? eyeColor)
-            : base(name, age, gender, energy, price, maxMealQuantity, currMealQuantity)
-        => EyeColor = eyeColor;
+        public Cat(string? name, int? age, char? gender, int? price, string? eyeColor)
+            : base(name, age, gender, price)
+        {
+            EyeColor = eyeColor;
+            MaxMealQuantity = 20;
+        }
 
         public override void MakeSound() => Console.WriteLine("\nMeoww");
 

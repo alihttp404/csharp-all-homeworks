@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace _3___petshop
 {
-    internal abstract class Animal
+    public abstract class Animal
     {
         private Guid id;
         public Guid Id { get => id; }
@@ -29,20 +29,19 @@ namespace _3___petshop
         public int? Price { get => age; set => price = value > 0 ? value : null; }
 
         private int? maxMealQuantity;
-        private int? MaxMealQuantity { get => maxMealQuantity; set => maxMealQuantity = value > 0 ? value : null; }
+        public int? MaxMealQuantity { get => maxMealQuantity; set => maxMealQuantity = value > 0 ? value : null; }
 
         private int? currMealQuantity;
-        private int? CurrMealQuantity { get => currMealQuantity; set => currMealQuantity = value > 0 ? value : null; }
+        public int? CurrMealQuantity { get => currMealQuantity; set => currMealQuantity = value > 0 ? value : null; }
 
         public Animal() { }
         
-        public Animal(string? name, int? age, char? gender, int? energy, int? price, int? maxMealQuantity, int? currMealQuantity) 
+        public Animal(string? name, int? age, char? gender, int? price) 
         {
             id = Guid.NewGuid();
             Name = name;
             Age = age;
             Gender = gender;
-            Energy = energy;
             Price = price;
             MaxMealQuantity = maxMealQuantity;
             CurrMealQuantity = currMealQuantity;
@@ -64,7 +63,7 @@ namespace _3___petshop
             if (energy == 0) { ZeroEnergy(); return; }
             currMealQuantity += mealQuantity;
             energy += Convert.ToInt32(mealQuantity / 10);
-            price += mealQuantity * 2; // her defe yedikce boyuyurler deye qiymeti de artir
+            price += mealQuantity / 3; // her defe yedikce boyuyurler deye qiymeti de artir
         }
 
         public void Sleep(int hours) => energy += hours;
