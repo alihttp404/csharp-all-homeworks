@@ -12,6 +12,7 @@ namespace _3___petshop
     internal abstract class Animal
     {
         private Guid id;
+        public Guid Id { get => id; }
 
         private string? name;
         public string? Name { get => name; set => name = value?.Length >= 3 ? value : null; }
