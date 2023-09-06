@@ -63,7 +63,7 @@ namespace bankk
                 Print(ref option);
                 key = Console.ReadKey();
 
-                if (key.Key == ConsoleKey.Escape) return 3439; // exit code
+                if (key.Key == ConsoleKey.Escape) return -1; // exit code
                 else if (key.Key == ConsoleKey.Enter) return option;
                 else if (key.Key == ConsoleKey.DownArrow) option++;
                 else if (key.Key == ConsoleKey.UpArrow) option--;
@@ -87,5 +87,4 @@ namespace bankk
             }
         }
     }
-}
 }

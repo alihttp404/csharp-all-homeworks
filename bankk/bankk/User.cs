@@ -11,10 +11,26 @@ namespace bankk
     {
         public string Name { get; set; }
         public string Surname { get; set; }
+        public string PIN { get; set; }
         public BankCatrd Card { get; set; }
+        public List<string> Operations;
 
-        public User() { }
-        public User(string name, string surname) { Name = name; Surname = surname; }
-        public User(string name, string surname, BankCatrd bk) : this(name, surname) { Card = bk; }
+        public User()
+        {
+            Name = "NULL";
+            Surname = "NULL";
+            PIN = "NULL";
+        }
+
+        public User(string name, string surname, string pin)
+        {
+            Name = name;
+            Surname = surname;
+            PIN = pin;
+            Card = new BankCatrd();
+            Operations = new List<string>();
+        }
+
+        public void ShowOperations() { if (Operations.Count != 0) foreach (string op in Operations) Console.WriteLine(op); Console.ReadKey(true); }
     }
 }

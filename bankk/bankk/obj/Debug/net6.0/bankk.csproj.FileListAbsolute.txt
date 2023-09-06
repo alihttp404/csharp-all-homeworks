@@ -1,0 +1,14 @@
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\obj\Debug\net6.0\bankk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\obj\Debug\net6.0\bankk.AssemblyInfoInputs.cache
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\obj\Debug\net6.0\bankk.AssemblyInfo.cs
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\obj\Debug\net6.0\bankk.csproj.CoreCompileInputs.cache
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\bin\Debug\net6.0\bankk.exe
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\bin\Debug\net6.0\bankk.deps.json
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\bin\Debug\net6.0\bankk.runtimeconfig.json
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\bin\Debug\net6.0\bankk.dll
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\bin\Debug\net6.0\bankk.pdb
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\obj\Debug\net6.0\bankk.dll
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\obj\Debug\net6.0\refint\bankk.dll
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\obj\Debug\net6.0\bankk.pdb
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\obj\Debug\net6.0\bankk.genruntimeconfig.cache
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\bankk\bankk\obj\Debug\net6.0\ref\bankk.dll
