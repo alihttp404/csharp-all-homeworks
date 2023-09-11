@@ -175,6 +175,8 @@ while (true)
 
                                             catch (Exception ex) { Console.WriteLine(ex); Thread.Sleep(700); continue; }
                                         }
+
+                                        else { Console.Clear(); Console.WriteLine("tapilmadi"); Console.ReadKey(false); }
                                         break;
                                 }
                                 if (optOperations == -1 || optOperations == 3) break;
