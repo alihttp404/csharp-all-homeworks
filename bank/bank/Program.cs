@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using bank.Models.Classes;
+using bank.Models.Interfaces;
+
+CEO elon = new CEO();
