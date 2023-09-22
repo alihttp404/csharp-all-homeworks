@@ -1,0 +1,14 @@
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\bin\Debug\net6.0\documenbt.exe
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\bin\Debug\net6.0\documenbt.deps.json
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\bin\Debug\net6.0\documenbt.runtimeconfig.json
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\bin\Debug\net6.0\documenbt.dll
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\bin\Debug\net6.0\documenbt.pdb
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\obj\Debug\net6.0\documenbt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\obj\Debug\net6.0\documenbt.AssemblyInfoInputs.cache
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\obj\Debug\net6.0\documenbt.AssemblyInfo.cs
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\obj\Debug\net6.0\documenbt.csproj.CoreCompileInputs.cache
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\obj\Debug\net6.0\documenbt.dll
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\obj\Debug\net6.0\refint\documenbt.dll
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\obj\Debug\net6.0\documenbt.pdb
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\obj\Debug\net6.0\documenbt.genruntimeconfig.cache
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\documenbt\documenbt\obj\Debug\net6.0\ref\documenbt.dll
