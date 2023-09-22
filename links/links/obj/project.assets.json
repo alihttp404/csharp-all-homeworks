@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\mamma_er07\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\MammadovAliRovshan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mamma_er07\\Documents\\csharp-all-homeworks\\links\\links\\links.csproj",
+      "projectUniqueName": "C:\\Users\\MammadovAliRovshan\\Documents\\programming\\c#\\csharp-all-homeworks\\links\\links\\links.csproj",
       "projectName": "links",
-      "projectPath": "C:\\Users\\mamma_er07\\Documents\\csharp-all-homeworks\\links\\links\\links.csproj",
-      "packagesPath": "C:\\Users\\mamma_er07\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mamma_er07\\Documents\\csharp-all-homeworks\\links\\links\\obj\\",
+      "projectPath": "C:\\Users\\MammadovAliRovshan\\Documents\\programming\\c#\\csharp-all-homeworks\\links\\links\\links.csproj",
+      "packagesPath": "C:\\Users\\MammadovAliRovshan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MammadovAliRovshan\\Documents\\programming\\c#\\csharp-all-homeworks\\links\\links\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\mamma_er07\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\MammadovAliRovshan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -66,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

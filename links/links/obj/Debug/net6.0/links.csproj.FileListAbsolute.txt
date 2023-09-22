@@ -1,0 +1,14 @@
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\bin\Debug\net6.0\links.exe
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\bin\Debug\net6.0\links.deps.json
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\bin\Debug\net6.0\links.runtimeconfig.json
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\bin\Debug\net6.0\links.dll
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\bin\Debug\net6.0\links.pdb
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\obj\Debug\net6.0\links.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\obj\Debug\net6.0\links.AssemblyInfoInputs.cache
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\obj\Debug\net6.0\links.AssemblyInfo.cs
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\obj\Debug\net6.0\links.csproj.CoreCompileInputs.cache
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\obj\Debug\net6.0\links.dll
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\obj\Debug\net6.0\refint\links.dll
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\obj\Debug\net6.0\links.pdb
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\obj\Debug\net6.0\links.genruntimeconfig.cache
+C:\Users\MammadovAliRovshan\Documents\programming\c#\csharp-all-homeworks\links\links\obj\Debug\net6.0\ref\links.dll
