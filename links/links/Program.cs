@@ -1,7 +1,5 @@
 ﻿using System;
 
-public delegate void Func(string str);
-
 public class MyClass
 {
     public string MyString {  get; set; }
@@ -31,12 +29,14 @@ public class Run
     }
 }
 
+public delegate void Func(string str);
+
 public class Program
 {
     public static void Main()
     {
         Console.WriteLine("Enter string");
-        var str = Console.ReadLine();
+        string str = Console.ReadLine();
         MyClass cls = new MyClass(str);
 
         Func spaceFunc = new Func(cls.Space);
